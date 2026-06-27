@@ -1,0 +1,20 @@
+version: 3.0.2
+apkFileName: 国家反诈中心_2.0.25_APKPure.apk
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: 21
+  targetSdkVersion: 30
+versionInfo:
+  versionCode: 195
+  versionName: 2.0.25
+resourcesInfo:
+  packageId: 127
+doNotCompress:
+- arsc
+- gif
+- jpg
+- mp3
+- png
+- webp
